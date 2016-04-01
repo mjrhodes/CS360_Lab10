@@ -1,0 +1,444 @@
+nohup: ignoring input
+
+> cluster@0.0.0 start /home/bitnami/cluster
+> node ./bin/www
+
+[0mGET / [32m200 [0m12.282 ms - 602[0m
+[0mGET /javascripts/angularApp.js [32m200 [0m3.729 ms - 476[0m
+[0mGET /favicon.ico [33m404 [0m3.553 ms - 906[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m2.326 ms - 30[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m0.925 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m0.437 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m0.481 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m0.288 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m0.965 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m0.263 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m1.147 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m3.038 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m0.827 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m1.067 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m0.970 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m0.432 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m0.858 ms - -[0m
+Service ID 6382
+[0mGET /pid [36m304 [0m0.258 ms - -[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m1.119 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.585 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.697 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.239 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.246 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.265 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.734 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m1.586 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.542 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.252 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.246 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.248 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.489 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m2.033 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.432 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.234 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.585 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.615 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.616 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.265 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.250 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.274 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.268 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.251 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.248 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.242 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.377 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.246 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.253 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.249 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.278 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.254 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.245 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.246 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.256 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.254 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.217 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.248 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.266 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.267 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.280 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.233 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.216 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.236 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.243 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.259 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.250 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m1.570 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.273 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m2.995 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.238 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.245 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.233 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.275 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.255 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.243 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.279 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.218 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.244 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.234 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m1.161 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.274 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.271 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.339 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.273 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.251 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.242 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.227 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.260 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.261 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.259 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.253 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.278 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.416 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.280 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.282 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.267 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.254 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.274 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.442 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.270 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.258 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.622 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.293 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.235 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.456 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.248 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.251 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.258 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.302 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.320 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m1.637 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.250 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.294 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.248 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.247 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.247 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.257 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.568 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.254 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.461 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.947 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.272 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.524 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.248 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.300 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.386 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.334 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.826 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m2.361 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.265 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.330 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m1.343 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m6.146 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m6.431 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.582 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m5.372 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.357 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.243 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.244 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.386 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.241 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.244 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.328 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.293 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.722 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.252 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.291 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.340 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.251 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.294 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.383 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.302 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.252 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.387 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.262 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.377 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.282 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.249 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.325 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.239 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.239 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.761 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.275 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.284 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.223 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.227 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.283 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.561 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.240 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.225 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.308 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.239 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.260 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.380 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.924 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.268 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.259 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.257 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.328 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.246 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.283 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.319 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.262 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.267 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.383 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.354 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.365 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.273 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.245 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.321 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.577 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.243 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.258 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.305 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.240 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.316 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.246 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.250 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.374 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.241 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.248 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.353 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.239 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.240 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.359 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.268 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.281 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.327 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.241 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.315 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.241 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.244 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.334 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.666 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.263 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.283 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.420 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.301 ms - 30[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.364 ms - 30[0m
+[0mGET / [36m304 [0m1.598 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m1.320 ms - -[0m
+[0mGET / [36m304 [0m0.654 ms - -[0m
+[0mGET /javascripts/angularApp.js [36m304 [0m0.326 ms - -[0m
+Service ID 6382
+[0mGET /pid [32m200 [0m0.426 ms - 30[0m
